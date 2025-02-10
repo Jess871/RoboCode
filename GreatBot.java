@@ -3,7 +3,7 @@ import robocode.*;
 // import java.awt.Color;
 
 /**
- * GreatBot - a robot by (your name here)
+ * GreatBot - a robot by Jess 
  */
 public class GreatBot extends Robot {
     double battlefieldWidth, battlefieldHeight;
